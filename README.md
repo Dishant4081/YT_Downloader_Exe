@@ -29,4 +29,7 @@ Now your YT Downloader will work perfectly.
 ***Why does Windows Security block it?
 The reason is that I am providing you with an executable file, and this format is not considered a safe way to execute directly on a computer. However, rest assured that it will not harm your computer.***
 
+If you still have doubts, you can watch this video:- 
+https://drive.google.com/file/d/1_uXNyeDE-hl4kCqQ923CBO9De9rbtxub/view?usp=sharing
+
 Thank you, and feel free to provide your valuable feedback and advice.
